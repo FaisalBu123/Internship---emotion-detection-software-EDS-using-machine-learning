@@ -1,4 +1,4 @@
-# let us carry out speech recognition as well as picth and sentiment analysis
+# let us carry out speech recognition as well as pitch and sentiment analysis
 # This is just a simple piece of code, complex code was not in the scope of this project
 
 import librosa
